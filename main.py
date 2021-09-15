@@ -1,14 +1,18 @@
-#print 1st movie
-print("godzilla king of the monsters")
+def TopFiveMovies():
+    #print the first movie
+    print("Godzilla King of the monsters")
 
-#print 2nd movie
-print("Thore Ragnarok")
+    #print the second movie
+    print("Godzilla vs Kong")
 
-#print 3rd movie
-print("Baby Driver")
+    #print the third movie
+    print("The Dark Knight Rises")
 
-#print 4th movie
-print("Godzilla vs Kong")
+    #print the fourth movie
+    print("Thor Raganarok")
 
-#print 5th movie
-print("The Dark Knight Rises")
+    #print the fifth movie
+    print("Baby Driver")
+
+print("these are my top five movies.")
+TopFiveMovies()

@@ -27,4 +27,3 @@ def define(word):
         return word + "is not defined in this dictionary"
 
 print(define("sword "))
-
